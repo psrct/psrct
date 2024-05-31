@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm student at KMITL
 -------
 
-I'm learning Python, Java.
-
 * 🌍  I'm based in Bangkok, Thailand
 
 ### Skills
