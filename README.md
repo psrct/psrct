@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About Me
 -------
 My name's Petch. I'm a student bachelor degree of IT at KMITL.
-* 🌍  I'm based in Bangkok, Thailand
+*  🔭  I'm interested in Software Engineer, FullStack Developer, Cybersecurity
+*  🌍  I'm based in Bangkok, Thailand
 
 ### Skills
 
