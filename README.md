@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sirachet Chotthakunanan
 ===============================================================================================================================================
 
-My name's Petch. I'm a student bachelor degree of IT at KMITL.
+About Me
 -------
-
+My name's Petch. I'm a student bachelor degree of IT at KMITL.
 * 🌍  I'm based in Bangkok, Thailand
 
 ### Skills
